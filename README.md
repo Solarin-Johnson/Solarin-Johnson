@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Developing
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : +234 7054294703
+- 📫 How to reach me : solarinjohnson@gmail.com
 <p align="center">
 <a href="https://github.com/Solarin-Johnson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Solarin-Johnson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

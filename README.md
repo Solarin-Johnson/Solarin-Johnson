@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Solarin-Johnson
-- 👀 I’m interested in Frontend Developing
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : solarinjohnson@gmail.com
 <p align="center">

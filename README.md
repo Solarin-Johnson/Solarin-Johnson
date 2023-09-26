@@ -26,9 +26,8 @@
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg) 
  -->
  
- ----
 </p>
-
+----
 
 <!---
 Solarin-Johnson/Solarin-Johnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -32,7 +32,7 @@
 🔥 <b>Streak Stats</b> <br>
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <p align="center">
-<a href='github.com/Solarin-Johnson'>
+<a href='../../../'>
  <img height='180em' src='https://github-readme-streak-stats.herokuapp.com/?user=Solarin-Johnson&theme=gruvbox&hide_border=true'>
 </a>
 </p>

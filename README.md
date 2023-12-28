@@ -12,7 +12,7 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=Solarin-Johnson&icon=2&color=6&pretty=true)](https://github-visitor-counter-pro.vercel.app) -->
 
 ----
-### 📊GitHub Stats :
+### GitHub Stats :
 
 <p align="center">
 

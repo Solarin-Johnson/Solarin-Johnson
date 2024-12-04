@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Solarin Johnson
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React.js and Next.js 🥲
+- 🌱 I’m currently learning React.js 🥲
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me : solarinjohnson@gmail.com
 ----

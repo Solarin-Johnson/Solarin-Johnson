@@ -3,7 +3,7 @@
 - 👀 I’m interested in Frontend & Mobile Development
 - 🌱 I’m currently learning React native 
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me : solarinjohnson@gmail.com
+- 📫 How to reach me : hello@solarin.me
 ----
 
 ![](https://komarev.com/ghpvc/?username=Solarin-Johnson) 
